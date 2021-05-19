@@ -1,0 +1,21 @@
+# opdracht 1
+
+# def seizoen(maandnummer):
+#     if maandnummer == 12 or maandnummer == 1 or maandnummer == 2:
+#         print('Winter')
+#     elif maandnummer >= 3 and maandnummer <= 5:
+#         print('Lente')
+#     elif maandnummer >= 6 and maandnummer <= 8:
+#         print('Zomer')
+#     elif maandnummer >= 9 and maandnummer <= 11:
+#         print('Herfst')
+#     else:
+#         print('Voer een geldig maandnummer in')
+#
+# seizoen(9)
+
+# opdracht 2
+
+lijst = ["boter", "kaas", "bier", "pizza", "thee", "drop", "koek", "cola", "boterham", "stamppot"]
+
+eval(input('Geef lijst'))
